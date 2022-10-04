@@ -20,4 +20,8 @@ public class UserServiceImpl implements UserService {
     void noBack(){
         System.out.println("测试");
     }
+    
+     void test(){
+        System.out.println("测试");
+    }
 }
